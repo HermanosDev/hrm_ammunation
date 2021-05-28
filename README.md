@@ -1,2 +1,21 @@
 # hrm_ammunation
-Script FiveM - Ammunation with PPA - Lua
+
+### Description:
+- Ammunation en RageUI
+- Config
+- Paiement Cash ou Banque
+
+### Pré-requis:
+- es_extended
+
+### Alternative:
+- Version Base California : 
+
+### Screenshot & Video:
+
+https://streamable.com/ed2r99
+
+![1](https://i.imgur.com/bREvUTO.png)
+
+### Crédit:
+- Hermanos#3620
