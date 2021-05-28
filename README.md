@@ -9,7 +9,7 @@
 - es_extended
 
 ### Alternative:
-- Version Base California : 
+- Version Base California : https://github.com/HermanosDev/hrm_ammunation-calif
 
 ### Screenshot & Video:
 
