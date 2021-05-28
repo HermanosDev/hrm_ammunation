@@ -19,3 +19,4 @@ https://streamable.com/ed2r99
 
 ### Crédit:
 - Hermanos#3620
+- Enøs#2744 (https://github.com/Five-Devv/E_WeaponShop)
